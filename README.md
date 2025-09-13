@@ -1,1 +1,1 @@
-# Statistical-Inference-for-Categorical-Data--Marketing-Analyst
+# Statistical Inference for Categorical Data Marketing Analyst
